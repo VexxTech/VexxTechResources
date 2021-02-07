@@ -1,0 +1,3 @@
+include ':ResourcesLibrary'
+include ':app'
+rootProject.name = "VexxTechResources"
