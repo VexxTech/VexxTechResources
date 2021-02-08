@@ -1,2 +1,2 @@
 # VexxTechResources
-A collection reusable of res files for Android projects.
+A collection of reusable res files for Android projects.
